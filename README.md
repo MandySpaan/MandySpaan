@@ -1,16 +1,13 @@
-## Hi there 👋
+## Heya, I'm Mandy ✨
 
-<!--
-**MandySpaan/MandySpaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile. I'm currently immersing myself in the world of Full-stack Development at GeeksHubs Academy through their intensive bootcamp course.
 
-Here are some ideas to get you started:
+### About Me 🌱
+- Currently working on various projects to hone my skills in both front-end and back-end development.
+- Continuously learning and growing in technologies like HTML, CSS, JavaScript, TypeScript, React, Node.js, and more.
+- Passionate about problem solving, creating seamless user experiences and writing clean, efficient code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## How to Reach Me 📫 
+LinkedIn: [Mandy Spaan](https://www.linkedin.com/in/mandyspaan/)
+
+Feel free to explore my repositories and connect with me. 
