@@ -8,6 +8,6 @@ Welcome to my GitHub profile. I'm currently immersing myself in the world of Ful
 - Passionate about problem solving, creating seamless user experiences and writing clean, efficient code.
 
 ## How to Reach Me 📫 
-LinkedIn: [Mandy Spaan](https://www.linkedin.com/in/mandyspaan/)
+You can find me on LinkedIn: [Mandy Spaan](https://www.linkedin.com/in/mandyspaan/)
 
 Feel free to explore my repositories and connect with me. 
