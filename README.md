@@ -9,13 +9,9 @@ Welcome to my GitHub profile. I'm currently immersing myself in the world of Ful
 
 ### 📦 Toolbox
 Frontend Development: `CSS` `Bootstrap` `JavaScript` `TypeScript` `React`
- 
 Version Control: `Git` `GitLab` 
-
 Backend Development: `Node.js`
-
 Testing: `Cypress` `Jest`
-
 Databases: `SQL` `MongoDB` `Express` `Zeabur` `Postman`
 
 
