@@ -7,7 +7,7 @@ Welcome to my GitHub profile. I'm currently immersing myself in the world of Ful
 - Continuously learning and growing in technologies like HTML, CSS, JavaScript, TypeScript, React, Node.js, and more.
 - Passionate about problem solving, creating seamless user experiences and writing clean, efficient code.
 
-## 📦 Toolbox
+### 📦 Toolbox
 **Frontend Development:** `CSS` `Bootstrap` `JavaScript` `TypeScript` `React`
  
 **Version Control:** `Git` `GitLab` 
@@ -17,6 +17,7 @@ Welcome to my GitHub profile. I'm currently immersing myself in the world of Ful
 **Testing:** `Cypress` `Jest`
 
 **Databases:** `SQL` `MongoDB` `Express` `Zeabur` `Postman`
+
 
 ### How to Reach Me 📫 
 You can find me on LinkedIn: [Mandy Spaan](https://www.linkedin.com/in/mandyspaan/)
