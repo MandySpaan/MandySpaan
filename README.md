@@ -1,6 +1,6 @@
 ## Heya, I'm Mandy ✨
 
-Welcome to my GitHub profile. I'm currently immersing myself in the world of Full-stack Development at GeeksHubs Academy through their intensive bootcamp course.
+Welcome to my GitHub profile. I'm currently immersing myself in the world of Full-stack Development at GeeksHubs Academy through their intensive bootcamp course. Seeking opportunities to apply and expand my skills in web technologies.
 
 ### About Me 🌱
 - Currently working on various projects to hone my skills in both front-end and back-end development.
