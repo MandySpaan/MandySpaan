@@ -8,7 +8,7 @@ Welcome to my GitHub profile. I'm currently immersing myself in the world of Ful
 - Passionate about problem solving, creating seamless user experiences and writing clean, efficient code.
 
 ### Toolbox 📦
-Frontend Development: `TypeScript` `JavaScript` `React` `CSS` `HTML` <br>
+Frontend Development: `React` `TypeScript` `JavaScript` `CSS` `HTML` <br>
 Backend Development: `TypeScript` `JavaScript` `Node.js`<br>
 Version Control: `Git` `GitHub` <br>
 Databases: `MySQL` `MongoDB` <br>
