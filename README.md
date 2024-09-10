@@ -4,7 +4,7 @@ Welcome to my GitHub profile. I'm currently immersing myself in the world of Ful
 
 ### About Me 🌱
 - Currently working on various projects to hone my skills in both front-end and back-end development.
-- Continuously learning and growing in technologies like HTML, CSS, JavaScript, TypeScript, React, Node.js, and more.
+- Continuously learning and growing in technologies like TypeScript, JavaScript, React, Node.js, and more.
 - Passionate about problem solving, creating seamless user experiences and writing clean, efficient code.
 
 ### Toolbox 📦
