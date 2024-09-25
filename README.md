@@ -9,7 +9,7 @@ Welcome to my GitHub profile. I'm currently immersing myself in the world of Ful
 
 ### Toolbox 📦
 Frontend Development: `React` `TypeScript` `JavaScript` `CSS` `HTML` `npm` `Bootstrap`<br>
-Backend Development: `Laravel` `PHP` `TypeScript` `JavaScript` `Node.js` `Mongoose` <br>
+Backend Development: `TypeScript` `JavaScript` `Node.js` `Mongoose` `Laravel` `PHP` <br>
 Version Control: `Git` `GitHub` <br>
 Databases: `MySQL` `MongoDB` <br>
 Testing: `Cypress` `Jest`
