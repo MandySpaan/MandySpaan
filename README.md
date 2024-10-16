@@ -8,10 +8,14 @@ Welcome to my GitHub profile. Having recently completed an intensive Full-stack 
 - Passionate about problem solving, creating seamless user experiences and writing clean, efficient code.
 
 ### Toolbox 📦
-Frontend Development: `React` `TypeScript` `JavaScript` `CSS` `HTML` `npm` `Bootstrap`<br>
-Backend Development: `TypeScript` `JavaScript` `Node.js` `Mongoose` `Laravel` `PHP` <br>
+Backend Development: `TypeScript` `JavaScript` `Node.js` `Express` `Mongoose` <br>
+Frontend Development: `React` `TypeScript` `JavaScript` `CSS` `HTML` `npm`<br>
 Version Control: `Git` `GitHub` <br>
 Databases: `MySQL` `MongoDB` <br>
+
+The following I have worked with, but less extensive: <br>
+Backend Development: `Laravel` `PHP` <br>
+Frontend Development: `Bootstrap`<br>
 Testing: `Cypress` `Jest`
 
 
