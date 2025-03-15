@@ -1,14 +1,13 @@
 ## Heya, I'm Mandy ✨
-
-Welcome to my GitHub profile. Having recently completed an intensive Full-Stack Development bootcamp at GeeksHubs Academy, I’m eager to continue immersing myself in web technologies and apply my skills through exciting new opportunities.
+Welcome to my GitHub profile. I work with both front-end and back-end technologies, constantly refining my skills and optimizing development workflows.
 
 ### About Me 🌱
-- Currently working on various projects to hone my skills in both front-end and back-end development.
-- Continuously learning and growing in technologies like TypeScript, JavaScript, React, Node.js, and more.
+- CTO at [VeriCasa](https://www.vericasa.com/en), leading technical strategies and development efforts.
+- Continuously learning, growing and exploring new technologies, and improving development workflows.
 - Passionate about problem solving, creating seamless user experiences and writing clean, efficient code.
 
 ### Toolbox 📦
-Backend Development: `TypeScript` `JavaScript` `Node.js` `Express` `Mongoose` <br>
+Backend Development: `TypeScript` `JavaScript` `Python` `Node.js` `Express` `Mongoose` <br>
 Frontend Development: `React` `TypeScript` `JavaScript` `CSS` `HTML` `npm`<br>
 Version Control: `Git` `GitHub` <br>
 Databases: `MySQL` `MongoDB` <br>
@@ -18,9 +17,11 @@ Backend Development: `Laravel` `PHP` <br>
 Frontend Development: `Bootstrap`<br>
 Testing: `Cypress` `Jest`
 
+### Personal Philosophy 🙌
+Grateful above all <br>
+Scared of comfortzones <br>
+Impossible is for the unwilling <br>
+Fascinated by the weird and unusual<br>
 
 ### How to Reach Me 📫 
-You can find my Portfolio, including my CV with contact info, here: [mandyspaan.vercel.app](https://mandyspaan.vercel.app/). <br>
-Or you can find me on, and reach me through, LinkedIn: [linkedin.com/in/mandyspaan](https://www.linkedin.com/in/mandyspaan/).
-
-Feel free to explore my repositories and connect with me.
+LinkedIn: [linkedin.com/in/mandyspaan](https://www.linkedin.com/in/mandyspaan/).
